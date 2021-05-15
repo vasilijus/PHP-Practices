@@ -48,3 +48,11 @@ composer validate
 7 - patch
 
 0.1.0
+
+## Interaction with the Websites ( similar to curl )
+Buzz\Browser
+
+## Logging
+
+composer require monoog/monolog
+
